@@ -4,7 +4,7 @@
 
 - 🔭 我是一名在读大学生.
 - 🤔 技术栈：前端React + 后端Go
-- 📫 如何联系我: hanyongyan8@163.com
+- 📫 如何联系我: hanyongyan8@gmail.com
 
 ![image](https://user-images.githubusercontent.com/84832795/212478754-bb2b6468-c2ef-486b-ae8b-a79a0faf715d.png)
 
